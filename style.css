@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'arial', Times, serif;
     box-sizing: border-box;
 }
 html {
@@ -35,7 +35,7 @@ nav {
     flex-wrap: wrap;
 }
 .logo {
-    width: 90px;
+    width: 70px;
 }
 nav ul li {
     display: inline-block;
